@@ -34,7 +34,7 @@ function greetWithDefault(name = "programmer") {
   const sum = add(1, 2);
   console.log(sum);
   => 3
-*/
+*/ 
 function add(num1, num2) {
   return num1 + num2;
 }
